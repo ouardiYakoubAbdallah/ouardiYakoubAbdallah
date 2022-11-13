@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yakoub Abdallah OUARDI.
 - 👀 I’m interested in Web development and Artificial Intelligence.
-- 🌱 I’m currently learning VueJS and PyTorch.
+- 🌱 I’m currently learning Solidity.
 - 📫 How to reach me: ouardiYakoubAbdallah@gmail.com.
 
 <!---
